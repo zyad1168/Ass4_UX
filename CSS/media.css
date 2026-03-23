@@ -261,8 +261,10 @@
 }
 
 @media (max-width: 480px) {
-
-    /* navbar */
+body
+    {
+    width:100%;
+}    /* navbar */
 
     .subscribe {
         margin: 0 auto;
