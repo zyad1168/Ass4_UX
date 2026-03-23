@@ -276,7 +276,9 @@ body
         right: 0px;
         top: 0px;
     }
-
+ .brutal h2 {
+        font-size: 20px
+    }
     div.header .buttons_First {
         flex-direction: column;
     }
